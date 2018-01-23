@@ -9,7 +9,7 @@ void main()
 	{
 		sum=sum+i;
 	}
-	printf("sum is%d",sum);
+	printf("%d",sum);
 } else
 printf("not a whole number");
 	
